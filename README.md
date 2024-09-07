@@ -3,7 +3,6 @@
 I am dedicated to championing privacy and education in the digital age. With a strong belief that everyone deserves to have their personal data protected and to be educated about the risks in the cyber world, I strive to make a difference through my work and contributions.
 👨‍💻 Expertise in Cyber Threat Intelligence (CTI) and Cyber Threat Hunting (CTH)
 
-Cyber Threat Intelligence (CTI)
 
 Cyber Threat Intelligence involves gathering, analyzing, and using information about current and potential threats to strengthen an organization's security posture. My expertise in CTI allows me to:
 
@@ -11,7 +10,6 @@ Cyber Threat Intelligence involves gathering, analyzing, and using information a
     Provide actionable insights to preemptively address security issues.
     Utilize threat data to enhance overall security strategies.
 
-Cyber Threat Hunting (CTH)
 
 Cyber Threat Hunting is the proactive search for threats and anomalies that evade traditional security measures. My skills in CTH include:
 
