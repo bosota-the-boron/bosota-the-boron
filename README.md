@@ -29,3 +29,10 @@ I am currently working on projects that involve:
 
     Bosota The Boron: A security tool designed to analyze files and directories for vulnerabilities and malware, incorporating advanced cryptographic techniques and malware signature analysis.
 
+<a href="#">
+  <img height=200 width="450px" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/?username=bosota-the-boron" />
+</a>
+<a href="#">
+  <img height=200 width="450px" height="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosota-the-boron&layout=compact&show_icons=true&title_color=fff&text_color=ffffff&bg_color=141d2b"" />
+</a>
+
